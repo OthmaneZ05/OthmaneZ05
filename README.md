@@ -6,7 +6,7 @@
 
 </div>
 
-**Now:** founding developer at L'Original — building **[loriginal.org](https://loriginal.org)** and **[artur.art](https://artur.art)** from one shared Next.js / TypeScript / Prisma codebase: Stripe checkout, AI artwork generation (OpenAI API), multi-domain routing, deployed on Vercel. The code is private, but both products are live.
+**Now:** founding developer at L'Original — two live art platforms, **[loriginal.org](https://loriginal.org)** and **[artur.art](https://artur.art)**, on one Next.js / TypeScript / Prisma codebase.
 
 **Also:** co-building **[Torollo](https://github.com/Derssa/Torollo)** — an open-source, local-first visual playground for learning system design and networking, where every node on the canvas is a real Docker container on your machine.
 
