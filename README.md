@@ -2,7 +2,7 @@
 
 # Hey, I'm Othmane 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+%C2%B7+Montr%C3%A9al;Building+loriginal.org+%C2%B7+artur.art;Shipping+web+by+day%2C+simulating+randomness+by+night&font=Fira+Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=18" alt="Full-stack developer · Montréal" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+%C2%B7+Montr%C3%A9al;Building+loriginal.org+%C2%B7+artur.art;Shipping+web+by+day%2C+simulating+randomness+by+night&font=Fira+Code&center=true&width=620&height=45&color=58A6FF&vCenter=true&pause=1000&size=18" alt="Full-stack developer · Montréal" />
 
 </div>
 
