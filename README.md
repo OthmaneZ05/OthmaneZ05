@@ -1,72 +1,65 @@
 <div align="center">
 
-# Hey, I'm Othmane 👋
+# Othmane Zahhaf
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+%C2%B7+Montr%C3%A9al;Building+loriginal.org+%C2%B7+artur.art+%C2%B7+Torollo;Shipping+web+by+day%2C+simulating+randomness+by+night&font=Fira+Code&center=true&width=620&height=45&color=58A6FF&vCenter=true&pause=1000&size=18" alt="Full-stack developer · Montréal" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+%C2%B7+Montr%C3%A9al;I+build+production+web+products+end+to+end&font=Fira+Code&center=true&width=620&height=45&color=58A6FF&vCenter=true&pause=1400&size=18" alt="Full-stack developer in Montréal" />
 
 </div>
 
-**Now:** founding developer at L'Original — two live art platforms, **[loriginal.org](https://loriginal.org)** and **[artur.art](https://artur.art)**, on one Next.js / TypeScript / Prisma codebase.
+I’m a full-stack developer who turns product ideas into dependable software — from data models and APIs to polished interfaces and production operations.
 
-**Also:** co-building **[Torollo](https://github.com/Derssa/Torollo)** — an open-source, local-first visual playground for learning system design and networking, where every node on the canvas is a real Docker container on your machine.
+I’m currently the founding developer at L’Original, building and operating **[loriginal.org](https://loriginal.org)** and **[artur.art](https://artur.art)** on a shared Next.js, TypeScript and Prisma platform.
 
-**Learning:** stochastic processes & Monte Carlo methods, and AI/ML engineering.
+**Open to:** full-stack or backend software roles in Montréal or remote.
 
-**Languages:** Français · English · العربية
+**Languages:** Français · English · العربية · **Contact:** [zahhafothmane2005@gmail.com](mailto:zahhafothmane2005@gmail.com)
 
-**Reach me:** [zahhafothmane2005@gmail.com](mailto:zahhafothmane2005@gmail.com)
+## What I build
 
-## Tech I ship with
+- Product-grade web applications with clear, maintainable service boundaries
+- Payments, data workflows and AI-assisted product features
+- Local-first developer tooling and systems-learning experiences
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,prisma,py,flask,java,spring,postgres,firebase,docker,git,githubactions,vercel,linux&perline=9" alt="TypeScript, Next.js, React, Node.js, Express, Prisma, Python, Flask, Java, Spring, PostgreSQL, Firebase, Docker, Git, GitHub Actions, Vercel, Linux" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,prisma,py,postgres,docker,git,githubactions,vercel&perline=12" alt="TypeScript, Next.js, React, Node.js, Express, Prisma, Python, PostgreSQL, Docker, Git, GitHub Actions and Vercel" />
 
 </div>
 
-## Featured work
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-[<img src="https://opengraph.githubassets.com/1/Derssa/Torollo" alt="Torollo" />](https://github.com/Derssa/Torollo)
+### [L’Original & Artur](https://loriginal.org)
 
-*Co-building this backend systems lab: drag-and-drop VPCs, load balancers, and databases — all backed by real local Docker containers and `iptables`.*
+Two live art platforms on one multi-domain codebase. I designed the data models and backend services, built Stripe checkout and the AI artwork-generation flow, and keep the product running in production.
 
 </td>
 <td width="50%" valign="top">
 
-[<img src="https://opengraph.githubassets.com/1/OthmaneZ05/brownian-motion-simulator" alt="brownian-motion-simulator" />](https://github.com/OthmaneZ05/brownian-motion-simulator)
+### [Torollo](https://github.com/Derssa/Torollo)
 
-*First step on my quant path: simulating stochastic processes in NumPy — Monte Carlo methods and option pricing are next.*
+An open-source, local-first visual playground for learning system design and networking. Canvas nodes become real Docker containers, networks and load balancers on your machine.
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### [loriginal.org](https://loriginal.org) · [artur.art](https://artur.art)
+### [Brownian motion simulator](https://github.com/OthmaneZ05/brownian-motion-simulator)
 
-Two production art platforms running from a single multi-domain codebase. I designed the data models and backend service layer, built the Stripe checkout and AI artwork-generation pipeline, and maintain the whole thing in production — reviews, releases, incidents. *Private repo — but you can click around the real thing.*
+Exploring stochastic processes in NumPy, with Monte Carlo methods and option pricing as the next steps.
 
 </td>
 </tr>
 </table>
 
-## Stats
-
-<div align="center">
-
-<img height="228" src="https://raw.githubusercontent.com/OthmaneZ05/OthmaneZ05/main/assets/github-stats.svg" alt="Othmane's GitHub stats" />
-<img height="228" src="https://raw.githubusercontent.com/OthmaneZ05/OthmaneZ05/main/assets/top-languages.svg" alt="Most used languages" />
-
-</div>
-
 ---
 
 <div align="center">
 
-*Day job: taming production randomness. Side quest: simulating it.*
+*Building useful things, then making them reliable.*
 
 </div>
