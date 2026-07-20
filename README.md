@@ -30,14 +30,14 @@
 <tr>
 <td width="50%" valign="top">
 
-[![Torollo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Derssa&repo=Torollo&theme=tokyonight&hide_border=true)](https://github.com/Derssa/Torollo)
+[![Torollo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Derssa&repo=Torollo&theme=tokyonight&hide_border=true)](https://github.com/Derssa/Torollo)
 
 *Co-building this backend systems lab: drag-and-drop VPCs, load balancers, and databases — all backed by real local Docker containers and `iptables`.*
 
 </td>
 <td width="50%" valign="top">
 
-[![brownian-motion-simulator](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=OthmaneZ05&repo=brownian-motion-simulator&theme=tokyonight&hide_border=true)](https://github.com/OthmaneZ05/brownian-motion-simulator)
+[![brownian-motion-simulator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OthmaneZ05&repo=brownian-motion-simulator&theme=tokyonight&hide_border=true)](https://github.com/OthmaneZ05/brownian-motion-simulator)
 
 *First step on my quant path: simulating stochastic processes in NumPy — Monte Carlo methods and option pricing are next.*
 
@@ -58,8 +58,8 @@ Two production art platforms running from a single multi-domain codebase. I desi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OthmaneZ05&show_icons=true&hide_border=true&theme=tokyonight" alt="Othmane's GitHub stats" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OthmaneZ05&layout=compact&hide_border=true&theme=tokyonight&hide=html,css" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OthmaneZ05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Othmane's GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OthmaneZ05&layout=compact&hide_border=true&theme=tokyonight&hide=html,css" alt="Most used languages" />
 
 </div>
 
