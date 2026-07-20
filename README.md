@@ -58,7 +58,7 @@ Two production art platforms running from a single multi-domain codebase. I desi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OthmaneZ05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Othmane's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=OthmaneZ05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Othmane's GitHub stats" />
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OthmaneZ05&layout=compact&hide_border=true&theme=tokyonight&hide=html,css" alt="Most used languages" />
 
 </div>
