@@ -30,14 +30,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Torollo](https://github.com/Derssa/Torollo)
+[<img src="https://opengraph.githubassets.com/1/Derssa/Torollo" alt="Torollo" />](https://github.com/Derssa/Torollo)
 
 *Co-building this backend systems lab: drag-and-drop VPCs, load balancers, and databases — all backed by real local Docker containers and `iptables`.*
 
 </td>
 <td width="50%" valign="top">
 
-### [brownian-motion-simulator](https://github.com/OthmaneZ05/brownian-motion-simulator)
+[<img src="https://opengraph.githubassets.com/1/OthmaneZ05/brownian-motion-simulator" alt="brownian-motion-simulator" />](https://github.com/OthmaneZ05/brownian-motion-simulator)
 
 *First step on my quant path: simulating stochastic processes in NumPy — Monte Carlo methods and option pricing are next.*
 
@@ -54,9 +54,14 @@ Two production art platforms running from a single multi-domain codebase. I desi
 </tr>
 </table>
 
-## GitHub
+## Stats
 
-[Browse my repositories](https://github.com/OthmaneZ05?tab=repositories) · [See my contributions](https://github.com/OthmaneZ05?tab=overview&from=2026-01-01&to=2026-12-31) · [Follow my activity](https://github.com/OthmaneZ05)
+<div align="center">
+
+<img height="228" src="https://raw.githubusercontent.com/OthmaneZ05/OthmaneZ05/main/assets/github-stats.svg" alt="Othmane's GitHub stats" />
+<img height="228" src="https://raw.githubusercontent.com/OthmaneZ05/OthmaneZ05/main/assets/top-languages.svg" alt="Most used languages" />
+
+</div>
 
 ---
 
